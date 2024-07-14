@@ -1,12 +1,15 @@
 import os
 from langchain.document_loaders import DirectoryLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.schema import Document
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
 from langchain.chat_models import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 from langchain.chains import LLMChain
+from langchain.text_splitter import RecursiveCharacterTextSplitter
 from dotenv import load_dotenv
+from preprocess import preprocess_text, chunk_text
+
 
 # Load environment variables (including OPENAI_API_KEY)
 load_dotenv()
@@ -15,15 +18,30 @@ load_dotenv()
 if not os.getenv("OPENAI_API_KEY"):
     raise ValueError("OPENAI_API_KEY not found in environment variables")
 
+
+def load_and_preprocess_documents(directory):
+    loader = DirectoryLoader(directory, glob="*.txt")
+    documents = loader.load()
+    processed_docs = []
+    for doc in documents:
+        processed_text = preprocess_text(doc.page_content)
+        chunks = chunk_text(processed_text)
+        for chunk in chunks:
+            processed_docs.append(Document(page_content=chunk, metadata=doc.metadata))
+    return processed_docs
+
+
 def load_and_split_documents(directory):
     loader = DirectoryLoader(directory, glob="*.txt")
     documents = loader.load()
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
     return text_splitter.split_documents(documents)
 
+
 def create_vectorstore(splits):
     embeddings = OpenAIEmbeddings()
     return Chroma.from_documents(splits, embeddings)
+
 
 def create_analysis_chain():
     llm = ChatOpenAI(temperature=0)
@@ -45,25 +63,30 @@ def create_analysis_chain():
     prompt = ChatPromptTemplate.from_template(template)
     return LLMChain(llm=llm, prompt=prompt)
 
+
 def analyze_documents(splits, analysis_chain):
     results = []
     for doc in splits:
         analysis = analysis_chain.run(text=doc.page_content)
-        results.append({
-            "content": doc.page_content,
-            "analysis": analysis,
-            "metadata": doc.metadata
-        })
+        results.append(
+            {
+                "content": doc.page_content,
+                "analysis": analysis,
+                "metadata": doc.metadata,
+            }
+        )
     return results
+
 
 def group_results_by_artist(results):
     grouped = {}
     for result in results:
-        artist = os.path.basename(result['metadata']['source']).split(' - ')[0]
+        artist = os.path.basename(result["metadata"]["source"]).split(" - ")[0]
         if artist not in grouped:
             grouped[artist] = []
         grouped[artist].append(result)
     return grouped
+
 
 def create_comparison_chain():
     llm = ChatOpenAI(temperature=0)
@@ -84,16 +107,15 @@ def create_comparison_chain():
     prompt = ChatPromptTemplate.from_template(template)
     return LLMChain(llm=llm, prompt=prompt)
 
+
 def generate_comparative_insights(grouped_results, comparison_chain):
     comparative_insights = []
     for artist, artist_results in grouped_results.items():
-        analyses = "\n\n".join([r['analysis'] for r in artist_results])
+        analyses = "\n\n".join([r["analysis"] for r in artist_results])
         insight = comparison_chain.run(analyses=analyses)
-        comparative_insights.append({
-            "artist": artist,
-            "insight": insight
-        })
+        comparative_insights.append({"artist": artist, "insight": insight})
     return comparative_insights
+
 
 def create_report_chain():
     llm = ChatOpenAI(temperature=0)
@@ -116,43 +138,52 @@ def create_report_chain():
     prompt = ChatPromptTemplate.from_template(template)
     return LLMChain(llm=llm, prompt=prompt)
 
+
 def generate_final_report(comparative_insights, report_chain):
-    all_insights = "\n\n".join([f"Artist: {ci['artist']}\n{ci['insight']}" for ci in comparative_insights])
+    all_insights = "\n\n".join(
+        [f"Artist: {ci['artist']}\n{ci['insight']}" for ci in comparative_insights]
+    )
     return report_chain.run(insights=all_insights)
 
+
 def main():
-    # Load and split documents
-    splits = load_and_split_documents('transcripts')
-    
+    # Load and preprocess documents
+    processed_docs = load_and_preprocess_documents("preprocessed_transcripts")
+
     # Create vectorstore
-    vectorstore = create_vectorstore(splits)
-    
+    vectorstore = create_vectorstore(processed_docs)
+
     # Analyze documents
     analysis_chain = create_analysis_chain()
-    results = analyze_documents(splits, analysis_chain)
-    
+    results = analyze_documents(processed_docs, analysis_chain)
+
     # Group results by artist
     grouped_results = group_results_by_artist(results)
-    
+
     # Generate comparative insights
     comparison_chain = create_comparison_chain()
-    comparative_insights = generate_comparative_insights(grouped_results, comparison_chain)
-    
+    comparative_insights = generate_comparative_insights(
+        grouped_results, comparison_chain
+    )
+
     # Generate final report
     report_chain = create_report_chain()
     final_report = generate_final_report(comparative_insights, report_chain)
-    
+
     # Save results
-    with open('comparative_insights.txt', 'w') as f:
+    with open("comparative_insights.txt", "w") as f:
         for insight in comparative_insights:
             f.write(f"Artist: {insight['artist']}\n")
-            f.write(insight['insight'])
-            f.write('\n\n')
-    
-    with open('final_report.txt', 'w') as f:
+            f.write(insight["insight"])
+            f.write("\n\n")
+
+    with open("final_report.txt", "w") as f:
         f.write(final_report)
-    
-    print("Analysis complete. Results saved to 'comparative_insights.txt' and 'final_report.txt'.")
+
+    print(
+        "Analysis complete. Results saved to 'comparative_insights.txt' and 'final_report.txt'."
+    )
+
 
 if __name__ == "__main__":
     main()

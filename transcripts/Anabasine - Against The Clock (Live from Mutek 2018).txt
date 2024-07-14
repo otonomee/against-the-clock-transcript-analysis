@@ -1,0 +1,113 @@
+1970-01-01 00:00:00: Hello? Okay. Hi. Are we already running?
+1970-01-01 00:00:07: No.
+1970-01-01 00:00:08: Oh, good.
+1970-01-01 00:00:09: All right. So, ready?
+1970-01-01 00:00:14: Yeah. Where do I? Can I see the clock somehow?
+1970-01-01 00:00:17: Okay. If you do that, yeah, is that good enough for everyone? Can everyone see?
+1970-01-01 00:00:21: Okay. All right. Let's hit it.
+1970-01-01 00:00:28: So, I'm sequencing drums off the MPC here. I don't have anything in these sequences yet.
+1970-01-01 00:00:34: I'm just going to build up some stuff. I'll have to turn up the volume. There we go.
+1970-01-01 00:00:43: Okay.
+1970-01-01 00:01:13: It's funny. It's definitely not kick one as I have labeled, but we'll get back to that.
+1970-01-01 00:01:25: Okay. We're going to start that over. I definitely didn't hit that right once.
+1970-01-01 00:01:55: All right. I want to start. I've been trying lately to really integrate the synthesizers as like the structural basis of things,
+1970-01-01 00:02:08: but it's kind of helpful to have something other than the click track to anchor us down with first.
+1970-01-01 00:02:15: Turn off the click. Let's see. Just snap here somewhere.
+1970-01-01 00:02:25: Okay. Not exactly. Maybe here. That one. I like that one.
+1970-01-01 00:02:46: Oh, muted. Okay.
+1970-01-01 00:02:59: Where are we at? Okay.
+1970-01-01 00:03:16: So, the Zoxbox here, I'm kind of new to, but it's really fun to program.
+1970-01-01 00:03:22: I'm a little self-conscious because many people are very good at programming these, but here we go. This is me.
+1970-01-01 00:03:51: All right. I'm a sucker for tambourines. I want to hear a tambourine right now.
+1970-01-01 00:04:20: One of the fun things about the MPC for me is it's like because you have to input everything with your fingers,
+1970-01-01 00:04:35: you end up being a little messy. It's a little messier than inputting stuff on a step sequencer,
+1970-01-01 00:04:40: and it kind of ends up sounding, giving it some human touch, like the skip out of that.
+1970-01-01 00:04:50: Okay. Let's adjust that range.
+1970-01-01 00:05:02: Okay.
+1970-01-01 00:05:26: So, I just, you can record in the delay automation there on the, or the decay of the sample of the tambourine.
+1970-01-01 00:05:35: So, 707, and then you get this nice in and out going, and the Zoxbox, there we go.
+1970-01-01 00:05:43: Okay. So, maybe some stabs. Okay, we're halfway.
+1970-01-01 00:05:57: Actually, I'm going to go back in on the kicks for a second.
+1970-01-01 00:06:10: Okay, we're going to go back in to kick one, because I don't think it's really doing much right now.
+1970-01-01 00:06:15: Erase that up.
+1970-01-01 00:06:25: Let's get some 808 bass going.
+1970-01-01 00:06:32: Go a little higher than that.
+1970-01-01 00:07:01: Alright. I'm done with that.
+1970-01-01 00:07:08: Maybe, well no, let's go stabs before we go with more drums. I always want to flutter up everything with drums,
+1970-01-01 00:07:14: but I already said I'm trying to integrate the synths more centrally, so let's do it.
+1970-01-01 00:07:21: This is going to be a Waldorf Micro-Q. It's a really nice hardware, digital wavetable synth from the late 80s, if I can get it happening.
+1970-01-01 00:07:41: Let's have it running through some digital delay here.
+1970-01-01 00:07:59: Sometimes it's funny, you just put in those things and you don't know what key you're in.
+1970-01-01 00:08:07: I don't even see you or something.
+1970-01-01 00:08:14: Alright.
+1970-01-01 00:08:24: Okay, going for a take here.
+1970-01-01 00:08:49: Open it up a bit.
+1970-01-01 00:09:00: Alright. What else? What's next?
+1970-01-01 00:09:05: Just got a minute left. Okay, we'll add a pad and then I'll jam it out a second.
+1970-01-01 00:09:35: That's the Oberheim Matrix 1000 coming through this filter.
+1970-01-01 00:10:05: That's what we got.
+1970-01-01 00:10:29: Anna Bessine, everybody.
+1970-01-01 00:10:35: Thanks.
+1970-01-01 00:10:38: Did anybody have any questions?
+1970-01-01 00:10:45: So you were talking about the MPC being able to put things in live, and I do agree that's really cool.
+1970-01-01 00:10:51: I haven't seen a lot of modern drum machines, sequencers, samplers, are the step-based entry,
+1970-01-01 00:10:58: but they are able to do polyrhythm.
+1970-01-01 00:11:00: Do you know anything recently that would mix both the MPC style input, unquantized, human feel, plus polyrhythms?
+1970-01-01 00:11:07: Because that would be really cool, and I hadn't really thought about that until you were talking about that with the MPC.
+1970-01-01 00:11:12: Yeah, this is kind of exactly the topic of what I'm, like, there's something on my mind these days for sure.
+1970-01-01 00:11:18: Because there's a bunch of things I really like about the MPC. I've been using it, like, I've been diving into it over the last year and a half or so.
+1970-01-01 00:11:26: The thing is that if I want to have something that's five bars long and something that's four bars long, both looping, you can't do that on this.
+1970-01-01 00:11:35: As far as I know. I'd have to, like, copy them out to 20 bars so that they'd phase back into blocks that line back up.
+1970-01-01 00:11:44: I think that the analog rhythm Letizia is just looking at me did can do that.
+1970-01-01 00:11:51: Yeah, but it still has an amount of, like, quantization.
+1970-01-01 00:11:54: But it's true. Can you input, like, you can record in and then you can do, like, the quantized menus?
+1970-01-01 00:12:00: Okay, so I guess it is perhaps possible. I like the, yeah, I kind of get away with it a bit.
+1970-01-01 00:12:07: I mean, I can use, like, a different length sequence if I'm using the sequence on the Zox box.
+1970-01-01 00:12:14: You know, I can have it run seven steps and loop on top of, like, a duple meter thing from the MPC.
+1970-01-01 00:12:20: But so far, that's definitely one kind of thing that I'm it's a little bit constraining for the for the real polyrhythmic side.
+1970-01-01 00:12:28: Yeah, but MPC sounds really good in classic. So that's great.
+1970-01-01 00:12:31: It's a question dear to my heart. Thank you.
+1970-01-01 00:12:37: Is there anyone else have any questions?
+1970-01-01 00:12:42: All right. Oh, yeah.
+1970-01-01 00:12:48: Yeah, I have a question. That yellow synth that you played.
+1970-01-01 00:12:52: Yeah. It's a microwave. Is that what? Micro Q. Micro Q.
+1970-01-01 00:12:56: There is one called the microwave, which is amazing. Yeah, it sounds really. The Waldorf microwave.
+1970-01-01 00:13:02: My question is, can you play just that sound for us for a few seconds?
+1970-01-01 00:13:08: I thought it. Oh, the Zox is on.
+1970-01-01 00:13:18: It's yeah, that's the bright, clean digital wavetable sound is like and I've got I've got a DD seven on it, like a stereo delay.
+1970-01-01 00:13:28: It's kind of it's I've been relying on it a lot to just like make the atmosphere happen.
+1970-01-01 00:13:34: And I find that that along with the with the Oberheim, which is really good at making these like more droney pads like those two blend to just kind of create these soundscapes that really like take off.
+1970-01-01 00:13:49: And I'm happy listening to them for a while. So then I've if I'm happy listening them for a while, I imagine other people hopefully are too.
+1970-01-01 00:13:58: Yeah, one back here. Hey, I was wondering if you could talk about your sequencing, like what you would do to get from where you are now to a finish track.
+1970-01-01 00:14:06: And if you use the yeah, yeah, so I'm using the MPC right now entirely as like my my sequencer like fully fully.
+1970-01-01 00:14:15: So I'll I'll sequence drums on it like I did like I'll often have I'll fill it up a lot more than that.
+1970-01-01 00:14:23: And then like when I'm playing live, I do a lot of kind of involved muting and unmuting of those.
+1970-01-01 00:14:29: So I like to have sequences in the drums that kind of like, yeah, maybe work together if you have them in all the time.
+1970-01-01 00:14:36: But maybe some also that are like like two kick drums that are maybe conflict conflict a little bit.
+1970-01-01 00:14:41: But like if I kind of toggle back and forth between them by having one on and then pressing them both at the same time, you switch the other and you can just kind of like create these rhythms on the fly that are like coming out of these two sequences like jumping back and forth.
+1970-01-01 00:14:55: And I've been using it entirely as a sequencer for all of my since now just because I'm like confident in the clock.
+1970-01-01 00:15:03: The so I actually didn't even get to the base station to here, but in the 10 minutes, but I sometimes I'll input the arpeggios like like using the arpeggiator on this, for example, and then just record it into the MPC.
+1970-01-01 00:15:19: And then I can like fine tune the timing because you can or like the swing and the shuffle in a way that's like a little bit more precise than like on this sequencer.
+1970-01-01 00:15:30: And then I also know that I'm not worried about the about anything going wrong on this or like the clock somehow like getting off.
+1970-01-01 00:15:39: The MPC clock is really rock solid.
+1970-01-01 00:15:42: I've been doing that with the Zox box to I've been sequencing it from the MPC.
+1970-01-01 00:15:46: There's some disadvantages like I can't change the pattern on the fly that it's locked in.
+1970-01-01 00:15:50: But then I can just make a variation of the pattern and switch over on the MPC too.
+1970-01-01 00:15:54: So it's it's it's really a bit of a powerhouse of a sequencer and I.
+1970-01-01 00:15:59: That's where that's the whole brain for sure.
+1970-01-01 00:16:02: Yeah, and we've got one more question.
+1970-01-01 00:16:04: I was just going to ask.
+1970-01-01 00:16:06: It's me. Hi.
+1970-01-01 00:16:08: So I was wondering if you're using the innovation in the end or just using is that as a MIDI keyboard.
+1970-01-01 00:16:13: Yeah, so I have the I was going to but I didn't quite have enough time to get to it.
+1970-01-01 00:16:20: Like I was going to maybe do one of these or something like that.
+1970-01-01 00:16:28: Yeah, so no, I was just using it as the as the MIDI in.
+1970-01-01 00:16:31: And then you can you just go through and like this MPC is for it's the MPC 2500 and has four different MIDI out.
+1970-01-01 00:16:38: So I have all the different synths on those.
+1970-01-01 00:16:40: And then if you just go in and select them because I have the channels routed, then I can use it to play the Waldorf or.
+1970-01-01 00:16:49: Overheim or I don't have the Zox routed out that way right now, but I could do the Zox too.
+1970-01-01 00:16:55: So yeah, controller right now.
+1970-01-01 00:16:57: But like last night I was using it as well.
+1970-01-01 00:17:00: Thank you very much.
+1970-01-01 00:17:02: And a base in.
+1970-01-01 00:17:03: Thank you.

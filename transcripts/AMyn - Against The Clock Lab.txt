@@ -1,0 +1,165 @@
+1970-01-01 00:00:00: Hi, I'm Amin from MoodFamily.
+1970-01-01 00:00:12: I'm doing Against the Clock in Amsterdam for ADE.
+1970-01-01 00:00:16: I hope you like it.
+1970-01-01 00:00:21: Cool.
+1970-01-01 00:00:24: I'm going to do that again.
+1970-01-01 00:01:54: Let's go.
+1970-01-01 00:02:54: Let's go.
+1970-01-01 00:03:24: Let's go.
+1970-01-01 00:03:54: Let's go.
+1970-01-01 00:04:24: Let's go.
+1970-01-01 00:04:27: Let's go.
+1970-01-01 00:04:30: Let's go.
+1970-01-01 00:04:33: Let's go.
+1970-01-01 00:04:36: Let's go.
+1970-01-01 00:04:39: Let's go.
+1970-01-01 00:04:42: Let's go.
+1970-01-01 00:04:45: Let's go.
+1970-01-01 00:04:48: Let's go.
+1970-01-01 00:04:51: Let's go.
+1970-01-01 00:04:54: Let's go.
+1970-01-01 00:04:57: Let's go.
+1970-01-01 00:05:00: Let's go.
+1970-01-01 00:05:03: Let's go.
+1970-01-01 00:05:06: Let's go.
+1970-01-01 00:05:09: Let's go.
+1970-01-01 00:05:12: Let's go.
+1970-01-01 00:05:15: Let's go.
+1970-01-01 00:05:18: Let's go.
+1970-01-01 00:05:21: Let's go.
+1970-01-01 00:05:24: Let's go.
+1970-01-01 00:05:27: Let's go.
+1970-01-01 00:05:30: Let's go.
+1970-01-01 00:05:33: Let's go.
+1970-01-01 00:05:36: Let's go.
+1970-01-01 00:05:39: Let's go.
+1970-01-01 00:05:42: Let's go.
+1970-01-01 00:05:45: Let's go.
+1970-01-01 00:05:48: Let's go.
+1970-01-01 00:05:51: Let's go.
+1970-01-01 00:05:54: Let's go.
+1970-01-01 00:05:57: Let's go.
+1970-01-01 00:06:00: Let's go.
+1970-01-01 00:06:03: Let's go.
+1970-01-01 00:06:06: Let's go.
+1970-01-01 00:06:09: Let's go.
+1970-01-01 00:06:12: Let's go.
+1970-01-01 00:06:15: Let's go.
+1970-01-01 00:06:18: Let's go.
+1970-01-01 00:06:21: Let's go.
+1970-01-01 00:06:24: Let's go.
+1970-01-01 00:06:27: Let's go.
+1970-01-01 00:06:30: Let's go.
+1970-01-01 00:06:33: Let's go.
+1970-01-01 00:06:36: Let's go.
+1970-01-01 00:06:39: Let's go.
+1970-01-01 00:06:42: Let's go.
+1970-01-01 00:06:45: Let's go.
+1970-01-01 00:06:48: Let's go.
+1970-01-01 00:06:51: Let's go.
+1970-01-01 00:06:54: Let's go.
+1970-01-01 00:06:57: Let's go.
+1970-01-01 00:07:00: Let's go.
+1970-01-01 00:07:03: Let's go.
+1970-01-01 00:07:06: Let's go.
+1970-01-01 00:07:08: Let's go.
+1970-01-01 00:07:11: Let's go.
+1970-01-01 00:07:14: Let's go.
+1970-01-01 00:07:17: Let's go.
+1970-01-01 00:07:20: Let's go.
+1970-01-01 00:07:23: Let's go.
+1970-01-01 00:07:26: Let's go.
+1970-01-01 00:07:29: Let's go.
+1970-01-01 00:07:32: Let's go.
+1970-01-01 00:07:35: Let's go.
+1970-01-01 00:07:38: Let's go.
+1970-01-01 00:07:41: Let's go.
+1970-01-01 00:07:44: Let's go.
+1970-01-01 00:07:47: Let's go.
+1970-01-01 00:07:50: Let's go.
+1970-01-01 00:07:53: Let's go.
+1970-01-01 00:07:56: Let's go.
+1970-01-01 00:07:59: Let's go.
+1970-01-01 00:08:02: Let's go.
+1970-01-01 00:08:05: Let's go.
+1970-01-01 00:08:08: Let's go.
+1970-01-01 00:08:11: Let's go.
+1970-01-01 00:08:14: Let's go.
+1970-01-01 00:08:17: Let's go.
+1970-01-01 00:08:20: Let's go.
+1970-01-01 00:08:23: Let's go.
+1970-01-01 00:08:26: Let's go.
+1970-01-01 00:08:29: Let's go.
+1970-01-01 00:08:32: Let's go.
+1970-01-01 00:08:35: Let's go.
+1970-01-01 00:08:38: Let's go.
+1970-01-01 00:08:41: Let's go.
+1970-01-01 00:08:44: Let's go.
+1970-01-01 00:08:47: Let's go.
+1970-01-01 00:08:50: Let's go.
+1970-01-01 00:08:53: Let's go.
+1970-01-01 00:08:56: Let's go.
+1970-01-01 00:08:59: Let's go.
+1970-01-01 00:09:02: Let's go.
+1970-01-01 00:09:05: Let's go.
+1970-01-01 00:09:08: Let's go.
+1970-01-01 00:09:11: Let's go.
+1970-01-01 00:09:14: Let's go.
+1970-01-01 00:09:17: Let's go.
+1970-01-01 00:09:20: Let's go.
+1970-01-01 00:09:23: Let's go.
+1970-01-01 00:09:53: Let's go.
+1970-01-01 00:09:56: Let's go.
+1970-01-01 00:09:59: Let's go.
+1970-01-01 00:10:02: Let's go.
+1970-01-01 00:10:05: Let's go.
+1970-01-01 00:10:08: Let's go.
+1970-01-01 00:10:11: Let's go.
+1970-01-01 00:10:14: Let's go.
+1970-01-01 00:10:17: Let's go.
+1970-01-01 00:10:20: Let's go.
+1970-01-01 00:10:23: Let's go.
+1970-01-01 00:10:26: Really.
+1970-01-01 00:10:29: Applause.
+1970-01-01 00:10:32: Applause.
+1970-01-01 00:10:35: How long did you think you had left?
+1970-01-01 00:10:38: Five.
+1970-01-01 00:10:41: I was going to like...
+1970-01-01 00:10:44: How do you think you hit like?
+1970-01-01 00:10:47: I was going to hit like ten.
+1970-01-01 00:10:50: But I'm pretty happy with it.
+1970-01-01 00:10:53: It sounded really good.
+1970-01-01 00:10:56: It sounded very chill.
+1970-01-01 00:10:59: It seemed like R&B.
+1970-01-01 00:11:02: Hip-hopish.
+1970-01-01 00:11:05: Were there things that you prepared in advance?
+1970-01-01 00:11:08: Yeah, I knew a few of the chords that kind of worked.
+1970-01-01 00:11:11: With that patch and with that sound.
+1970-01-01 00:11:14: I didn't know what I was going for.
+1970-01-01 00:11:17: I didn't know the bass or the beats.
+1970-01-01 00:11:20: I wasn't sure about those.
+1970-01-01 00:11:23: But I knew a little bit of the melody that kind of worked.
+1970-01-01 00:11:26: That's the only thing I sort of prepared.
+1970-01-01 00:11:29: For the rest it was just spontaneous.
+1970-01-01 00:11:32: Are these your favorite?
+1970-01-01 00:11:35: Yeah, this is basically my studio.
+1970-01-01 00:11:38: Is it?
+1970-01-01 00:11:41: I play this kind of stuff as a live set.
+1970-01-01 00:11:44: Then I use mainly what I use to make those tracks.
+1970-01-01 00:11:47: This is basically the sound that I developed.
+1970-01-01 00:11:50: It's the Prophet and the Moog as a base.
+1970-01-01 00:11:53: I think together they really work well.
+1970-01-01 00:11:56: If you had your five minutes,
+1970-01-01 00:11:59: what would you add onto the track?
+1970-01-01 00:12:02: What would you add?
+1970-01-01 00:12:05: I think I would add a little bit of a mix.
+1970-01-01 00:12:08: If you had your five minutes, what would you add onto the track?
+1970-01-01 00:12:11: What was your next process of doing it?
+1970-01-01 00:12:14: I think more arrangements.
+1970-01-01 00:12:17: I was working at starting with an intro and then dropping the beat and the bass.
+1970-01-01 00:12:20: It has more of a story.
+1970-01-01 00:12:23: I have two main melody parts.
+1970-01-01 00:12:26: I wanted to create more of a story.
+1970-01-01 00:12:29: Now it's still just there.
+1970-01-01 00:12:32: I might finish it for a few minutes.
+1970-01-01 00:12:35: I'm not just there, but I might finish it for later.
