@@ -1,0 +1,57 @@
+1970-01-01 00:00:00: I don't feel nervous, I feel like I'm not sure what's gonna happen but I quite like
+1970-01-01 00:00:11: that but I think it could sound really nice, I'd like it to sound nice obviously.
+1970-01-01 00:00:16: I'm gonna start with trying to work with some field recordings, so I've got a few that I've
+1970-01-01 00:00:24: selected but I'm not sure which I'm gonna use yet and I'm gonna use my light interface which uses
+1970-01-01 00:00:31: light to kind of manipulate those field recordings and then some parts of the interface are connected
+1970-01-01 00:00:38: to my little modular system, you can kind of coax melody out of it and maybe some rhythm but
+1970-01-01 00:00:45: we'll see, see what happens. Hello I'm Leafcutter John and I'm going against the clock for fact.
+1970-01-01 00:00:50: Right let's have a look at the, I've got a few field recordings and see.
+1970-01-01 00:00:59: Whoa piercing, piercing birds from a hackney.
+1970-01-01 00:01:14: This is an improvisation, like a kind of, this is a vibrator on a on a cymbal, I like it.
+1970-01-01 00:01:24: That's so good.
+1970-01-01 00:01:29: Oh no that's on a drum.
+1970-01-01 00:01:33: I'm gonna try, try that one I think.
+1970-01-01 00:01:35: I'll keep you then there. Right one minute wasted, let's have a go.
+1970-01-01 00:03:05: Put the birds in.
+1970-01-01 00:10:05: I've still got 36 seconds left, should I do another one?
+1970-01-01 00:10:36: So
+1970-01-01 00:10:56: I think that there were some really good bits in it, it was, it felt like, well I was improvising so
+1970-01-01 00:11:02: it felt like the system that I'd made beforehand did some stuff that I wasn't expecting
+1970-01-01 00:11:08: and it took me a little while to think comfortable thoughts about that rather than panicking.
+1970-01-01 00:11:14: What's really nice about working with a computer I think is bringing in these kind of outside
+1970-01-01 00:11:19: elements so that you get a bit of chance. This light interface is a grid of 16 light sensors and
+1970-01-01 00:11:27: it's actually quite basic, they just sense how bright each sensor is, how much light is falling.
+1970-01-01 00:11:34: It was built by me and it's actually, it's a very achievable thing, it's not too complicated to do it
+1970-01-01 00:11:41: and it sends that information as MIDI into my max patch. These bottom rows of sensors can manipulate
+1970-01-01 00:11:50: the field recordings that I put in at the beginning so you get this kind of
+1970-01-01 00:11:57: sound.
+1970-01-01 00:12:06: You can be really, really subtle with it. The way that this particular patch set up is it looks for
+1970-01-01 00:12:11: a tempo on this one, so if we give it a tempo now it's like there's a bit of a kind of kick
+1970-01-01 00:12:20: and bass thing which are linked to that. I'm just turning that off
+1970-01-01 00:12:28: and then the sort of synthesized sort of ringy stringy sound, this is the tempo
+1970-01-01 00:12:37: and then how bright this is is kind of how fast those notes are.
+1970-01-01 00:12:50: In relation to the tempo, so if you get it going
+1970-01-01 00:13:01: you can control the sound in the modular of what
+1970-01-01 00:13:03: you've got.
+1970-01-01 00:13:12: And then you can change the content of the notes of that little thing by using another line.
+1970-01-01 00:13:33: So
+1970-01-01 00:13:45: and if you've like flashed the lights then it builds a kind of scale which has
+1970-01-01 00:13:52: got variation in it, so it sounds a bit more like this.
+1970-01-01 00:13:55: So it's non-repeating.
+1970-01-01 00:14:06: I thought it would be nice to develop something specifically for this challenge and I thought
+1970-01-01 00:14:13: it'd be really quick but it wasn't. It took ages and it's still not quite behaving itself but maybe
+1970-01-01 00:14:19: and I thought it'd be really quick but it wasn't. It took ages and it's still not quite behaving
+1970-01-01 00:14:24: itself but maybe that's quite a positive thing. They're all really different and they've all got
+1970-01-01 00:14:29: different battery levels so like a dim one is going to be much more subtle. This one's got really
+1970-01-01 00:14:34: wide beams. This disco light.
+1970-01-01 00:14:43: You can see the little bits of light hitting the sensors. You might be able to
+1970-01-01 00:14:51: might be get it to play a melody at the right angle. Maybe.
+1970-01-01 00:15:05: So it's nice because like
+1970-01-01 00:15:07: it just gives you stuff all the time when you put this aside whether that's interesting for you or not.
+1970-01-01 00:15:19: Yeah I mean I use I play my music on it. For the set I like to have like elements that are
+1970-01-01 00:15:25: quite what kind of free and quite often I've got music that I'm playing so it will get it will sort
+1970-01-01 00:15:31: of funnel into something that's much more controlled and it might be playing back elements of an album
+1970-01-01 00:15:36: track or something. I like people to come and have a look at it and have a go on it. I did a
+1970-01-01 00:15:41: kids show in Gateshead about two months ago and and it was literally 30 kids descended on it after
+1970-01-01 00:15:49: the show and it was like about 40 minutes of them just like yeah and me just like learning new
+1970-01-01 00:15:56: techniques the whole time.

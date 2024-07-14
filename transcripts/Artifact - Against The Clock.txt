@@ -1,0 +1,100 @@
+1970-01-01 00:00:00: This is Artifacts, I'm going to go against the clock for FACTV.
+1970-01-01 00:00:16: Okay, so first I kind of get it going by just putting a beat together, so it's starting
+1970-01-01 00:00:25: off with a kick.
+1970-01-01 00:00:26: So I've got some samples that I've preloaded, with some EQs and stuff already set up.
+1970-01-01 00:00:32: Okay, sorry.
+1970-01-01 00:00:37: So I just kind of, I generally use MIDI in Ableton because I just find it quicker and
+1970-01-01 00:00:43: easier if you want to change the sound around or anything like that.
+1970-01-01 00:00:46: So.
+1970-01-01 00:00:51: And I always split my kicks into like a mid and a high.
+1970-01-01 00:00:58: Okay.
+1970-01-01 00:01:04: And then I normally go for the hats next, so I've got a few more hats loaded up as well,
+1970-01-01 00:01:08: so I'll start off with a...
+1970-01-01 00:01:11: This one is an offbeat hat.
+1970-01-01 00:01:17: I'll probably layer that one up as well.
+1970-01-01 00:01:24: And then again I'll just generally draw the MIDI in for everything really.
+1970-01-01 00:01:29: Okay, I'll put some extra hats in just to add some more groove.
+1970-01-01 00:01:39: And then I normally put kind of like a tambourine shaker in there as well, just to hit out of
+1970-01-01 00:01:44: the way, just to add a bit more rhythm.
+1970-01-01 00:01:51: So I do that and I cut it down, and what we'll do here is just get one hit.
+1970-01-01 00:01:56: And loop that on the sixteenths.
+1970-01-01 00:01:58: Okay.
+1970-01-01 00:02:11: The next thing I normally do is get my snares going, which again I've got some claps, like
+1970-01-01 00:02:17: just some 909 claps loaded up, which I'm going to use for this.
+1970-01-01 00:02:21: Just get the MIDI from there again.
+1970-01-01 00:02:29: This one sound card I'm using makes the claps go pretty funny, but...
+1970-01-01 00:02:37: I'll just try using a different one.
+1970-01-01 00:02:51: There we go.
+1970-01-01 00:02:53: Okay, so once I've got my basic beat down I move on to the bass line, which I normally,
+1970-01-01 00:02:59: at the moment I'm using this Rob Pape and Subboom bass, and just kind of set up an FM
+1970-01-01 00:03:04: synth using some sine waves.
+1970-01-01 00:03:06: Just get some nice...
+1970-01-01 00:03:12: nice mutey sound.
+1970-01-01 00:03:16: There we go.
+1970-01-01 00:03:18: And then I'll just take the MIDI here and I'll draw this in as well, because I don't
+1970-01-01 00:03:22: really have a MIDI keyboard at the moment and I find it easier anyway, just to add, draw
+1970-01-01 00:03:26: the piano roll in.
+1970-01-01 00:03:49: So I'll just put together a simple little bass line like that for now, and I'll probably
+1970-01-01 00:03:57: drop that down an octave.
+1970-01-01 00:04:00: Okay.
+1970-01-01 00:04:08: And just add some like little variations at the end, I sometimes just swing the notes,
+1970-01-01 00:04:12: round the notes up an octave.
+1970-01-01 00:04:19: In fact I'll just put an extra one in there.
+1970-01-01 00:04:38: Okay, so that's my kind of basic thing.
+1970-01-01 00:04:40: I'll put some percussion in there as well, I've got a couple of rim shots.
+1970-01-01 00:04:45: Which I like to use in my tunes.
+1970-01-01 00:04:53: So I'll just get a little rhythm going with them.
+1970-01-01 00:05:09: Okay, so that's going to be my first 16 phrase.
+1970-01-01 00:05:15: Just took a little quick fill in there as well.
+1970-01-01 00:05:32: Okay.
+1970-01-01 00:05:35: So for the next section I'll kind of like add some stabs or something, or like another
+1970-01-01 00:05:39: layer on the kind of main sound.
+1970-01-01 00:05:44: Okay.
+1970-01-01 00:06:06: I'll have them coming in over the last section.
+1970-01-01 00:06:10: Kind of I generally automate as I go as well, do a lot of reverb automation on my synths,
+1970-01-01 00:06:15: just automate the delay time up towards the end of sections and stuff.
+1970-01-01 00:06:22: And then I could then use this stab section here to put in a breakdown.
+1970-01-01 00:06:29: So I've got...
+1970-01-01 00:06:40: I'll just grab the first 16 here and drop that in there.
+1970-01-01 00:07:11: But I'll probably do like a... on the second drop I always kind of do a switch up on the
+1970-01-01 00:07:15: bass line or something like that.
+1970-01-01 00:07:17: So I'll do that here.
+1970-01-01 00:07:41: And again I'll have this coming in over the phrase.
+1970-01-01 00:07:44: I'm just kind of keeping some momentum going there.
+1970-01-01 00:07:51: How much time do I have? Two minutes.
+1970-01-01 00:07:56: Okay, so I'll quickly just put an intro.
+1970-01-01 00:08:01: Bit together.
+1970-01-01 00:08:03: Okay, for the intros I normally just use kind of broken down bits from the rest of
+1970-01-01 00:08:09: the track and then build it up into the main section.
+1970-01-01 00:08:23: So I'll just start with something like that and maybe the main chords coming in, those
+1970-01-01 00:08:27: stabs coming in over the course of the intro.
+1970-01-01 00:08:34: And then I'll just place more reverb, decay time going on.
+1970-01-01 00:08:47: Yeah, okay.
+1970-01-01 00:08:49: So I guess I'll mix down wise, I generally use this Vertigo VS-C2 compressor on pretty
+1970-01-01 00:08:56: much everything on my busses because it's just a really good analog model compressor.
+1970-01-01 00:09:01: I'm going to set up my hats for the moment.
+1970-01-01 00:09:05: Just kind of tickling it a little bit.
+1970-01-01 00:09:10: And then for my sub I use an EKS-9 which is an 808 synthesizer.
+1970-01-01 00:09:17: Again with that Vertigo VS-C2 on it.
+1970-01-01 00:09:21: And then I'll start turning that to my kick drum.
+1970-01-01 00:09:30: There we go.
+1970-01-01 00:09:45: Just to finish the tune off I've just chucked in a few crashes and reverse hits, etc.
+1970-01-01 00:09:52: So just grab some from my sample pack.
+1970-01-01 00:10:01: I've got some more busses and tracks again set up, some reverb and delays in them.
+1970-01-01 00:10:12: So I'll have that on each one and then I'll normally have a couple of impacts and stuff like that.
+1970-01-01 00:10:19: And I'm done.
+1970-01-01 00:10:22: So I'll just go ahead and turn that off.
+1970-01-01 00:10:24: And then I'll just go ahead and turn that off.
+1970-01-01 00:10:26: And then I'll just go ahead and turn that off.
+1970-01-01 00:10:28: And then I'll just go ahead and turn that off.
+1970-01-01 00:10:30: And then I'll just go ahead and turn that off.
+1970-01-01 00:10:32: And then I'll just go ahead and turn that off.
+1970-01-01 00:10:34: And then I'll just go ahead and turn that off.
+1970-01-01 00:10:36: And then I'll just go ahead and turn that off.
+1970-01-01 00:10:38: And then I'll just go ahead and turn that off.
+1970-01-01 00:10:40: And then I'll just go ahead and turn that off.
+1970-01-01 00:10:42: And then I'll just go ahead and turn that off.
+1970-01-01 00:10:44: And then I'll just go ahead and turn that off.
+1970-01-01 00:10:46: And then I'll just go ahead and turn that off.
+1970-01-01 00:10:48: And then I'll just go ahead and turn that off.
+1970-01-01 00:10:50: And then I'll just go ahead and turn that off.
