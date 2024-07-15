@@ -1,0 +1,22 @@
+1970-01-01 00:00:00: Hello, I'm Barker and I'm going to go against the clock for Fact Magazine.
+1970-01-01 00:08:30: I'm going to go against the clock for Fact Magazine.
+1970-01-01 00:09:00: I'm going to go against the clock for Fact Magazine.
+1970-01-01 00:09:30: I'm going to go against the clock for Fact Magazine.
+1970-01-01 00:10:00: I'm going to go against the clock for Fact Magazine.
+1970-01-01 00:10:30: I'm going to go against the clock for Fact Magazine.
+1970-01-01 00:11:00: I got a little bit lost and forgot what time it was.
+1970-01-01 00:11:05: But yeah, that was my against the clock.
+1970-01-01 00:11:09: I was trying to use stuff that's reasonably available.
+1970-01-01 00:11:15: This is also what I'm using right now for my live set.
+1970-01-01 00:11:18: So it's just a fun little setup using the Electron Digitone,
+1970-01-01 00:11:26: the Electron Octatrack, which is doing a lot of sequencing work and sampling.
+1970-01-01 00:11:34: The Fader Fox is just controlling everything.
+1970-01-01 00:11:38: And the Nord Drum, which was doing some of the sort of belly sounds.
+1970-01-01 00:11:46: And the Isn't Part of My Life set is my plate reverb with solenoid percussion.
+1970-01-01 00:11:54: This I was sequencing with the Beatstep Pro.
+1970-01-01 00:11:57: Also using it as a reverb, running some things through the plate.
+1970-01-01 00:12:00: So yeah, that was the basic setup.
+1970-01-01 00:12:04: I had the keystep, Arturia Keystep as well, just for putting notes in.
+1970-01-01 00:12:14: Yeah, I thought I decided against doing something with the modular
+1970-01-01 00:12:19: just because I think I wanted to use gear that's a bit more accessible and readily available.
+1970-01-01 00:12:25: You don't need all of this stuff to make good music.

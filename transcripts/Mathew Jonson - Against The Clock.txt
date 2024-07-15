@@ -1,0 +1,10 @@
+1970-01-01 00:00:00: Hi, I'm Matthew Johnson.
+1970-01-01 00:00:10: I'm here with Against the Clock for FAC Magazine.
+1970-01-01 00:00:13: Let's see what I can do in 10 minutes.
+1970-01-01 00:00:16: I'll start the clock now.
+1970-01-01 00:00:19: And start.
+1970-01-01 00:10:30: Where's the phone alarm?
+1970-01-01 00:10:46: Where did it go?
+1970-01-01 00:10:48: There it goes.
+1970-01-01 00:10:50: Finished.
+1970-01-01 00:10:59: Thank you.

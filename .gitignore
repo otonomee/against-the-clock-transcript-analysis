@@ -1,2 +1,4 @@
 *.mp3
 .env
+.chroma
+__pycache__

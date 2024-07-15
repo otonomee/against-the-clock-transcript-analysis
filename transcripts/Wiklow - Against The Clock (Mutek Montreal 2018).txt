@@ -1,0 +1,455 @@
+1970-01-01 00:00:00: Helo, rydw i'n John Twelz, y gweithwyr ymgyrch ym Mharu.
+1970-01-01 00:00:05: Mae rhai o'n ni'n gwybod, rydyn ni'n gwneud y seriadau arall ar gyfer y cyhoedd,
+1970-01-01 00:00:09: lle mae'r gweithwyr yn gwneud y cyhoedd yn 10 munud.
+1970-01-01 00:00:12: A rydyn ni wedi'i gwneud hyn i Mutec Montreal y dydd.
+1970-01-01 00:00:15: Mae gennym ddwy artistiau yn gwneud cyhoedd yn 10 munud heddiw.
+1970-01-01 00:00:19: Mae gennym ym mhob ym mhob ym Mutec Montreal y dydd.
+1970-01-01 00:00:21: Ac yn ddiweddar, mae gennym Anna Bacine,
+1970-01-01 00:00:25: a'r ffordd y byddwch chi wedi'i gweld gydag y dydd hwn.
+1970-01-01 00:00:28: Felly, mae'n cael llawer o ddwy slyth,
+1970-01-01 00:00:30: ond yn gallu i'n eu cyhoeddio'r gyrch hwn.
+1970-01-01 00:00:32: Mae'n ddaf yn bwysig.
+1970-01-01 00:00:35: Felly, ym mhob ym mhob, Michael Dean, aka Wicklow.
+1970-01-01 00:00:40: A mae'n mynd i ddweud am y laptop a'r cyhoedd.
+1970-01-01 00:00:44: A rydyn ni'n bwysig i gael y proses a'r hyn
+1970-01-01 00:00:47: yn dod ar y sgrin, felly gallwch chi weld beth mae'n ei wneud.
+1970-01-01 00:00:51: A byddai'n mynd i ddweud am y proses a'i gael y cyhoedd.
+1970-01-01 00:00:57: Mae'r micrfôn yn...
+1970-01-01 00:00:59: Cefnogaeth 1, 2.
+1970-01-01 00:01:00: Felly, yw'r proses Panic.
+1970-01-01 00:01:04: Gallwch chi ddweud pan y goc yn dechrau, dwi'n credu?
+1970-01-01 00:01:07: Ie, a'n mynd.
+1970-01-01 00:01:08: Ie, ydym yn mynd.
+1970-01-01 00:01:10: Felly, yw'r cyhoedd i Panic City, dwi'n credu.
+1970-01-01 00:01:14: Ie, byddwn i'n mynd i ddweud unrhyw ddau i'r cyhoedd o beth.
+1970-01-01 00:01:20: Gallai o bryd jaz.
+1970-01-01 00:01:21: Dydw i'n mynd.
+1970-01-01 00:01:27: Miles.
+1970-01-01 00:01:29: Er mwyn i gyd, mae'n dda, yn gofio.
+1970-01-01 00:01:32: Byddwn yn gwneud yn ddechrau'n dda i'r bwyd.
+1970-01-01 00:01:35: Maent yn gwybod a oes gennych chi'n gweld Justin Beater ymlaen i 10,000%,
+1970-01-01 00:01:39: ond roedd yn dda'n ddaeth iawn, felly efallai y byddai'r hyn yn...
+1970-01-01 00:01:41: Mae'n dda, yn dda.
+1970-01-01 00:01:42: Nid oedd yn dda.
+1970-01-01 00:01:48: Wel, nid oes amser i'n meddwl, felly roedd yn mynd i'r...
+1970-01-01 00:01:58: Nid oes yn dda.
+1970-01-01 00:02:01: Rhywbeth yn dechrau.
+1970-01-01 00:02:03: Er...
+1970-01-01 00:02:04: Sonny Clark.
+1970-01-01 00:02:06: Nid.
+1970-01-01 00:02:11: Oscar Peterson.
+1970-01-01 00:02:13: Beth am yw hyn?
+1970-01-01 00:02:17: O, mae'n dda iawn, eitem.
+1970-01-01 00:02:20: Rhywbeth yn dda.
+1970-01-01 00:02:22: Dylunio, rhanfod.
+1970-01-01 00:02:23: Ok, ddysgau, gweithwyr.
+1970-01-01 00:02:26: Dydw i ddim yn gwybod.
+1970-01-01 00:02:30: Felly rydw i'n gwneud hynny yn y laptop heddiw,
+1970-01-01 00:02:32: ond rhai fyddwn i'n dda,
+1970-01-01 00:02:34: ond dwi'n meddwl bod hynny'n dda'n dda.
+1970-01-01 00:02:37: Dwi ddim yn gwybod efallai.
+1970-01-01 00:02:38: Dwi ddim yn gwybod efallai.
+1970-01-01 00:02:39: Rwy'n meddwl bod dwi wedi gael fy desktop.
+1970-01-01 00:02:41: Test.Wave, dwi.
+1970-01-01 00:02:44: Rwy'n iawn iawn, a...
+1970-01-01 00:02:47: O, mae'n mynd i.
+1970-01-01 00:02:48: Rwy'n iawn, a...
+1970-01-01 00:02:51: Mae fy keyboard ddim yn gweithio.
+1970-01-01 00:02:53: Yn dda, ymwneud.
+1970-01-01 00:02:56: Rwy'n iawn, rwy'n iawn,
+1970-01-01 00:02:58: am fod yn dda, pan fydwch yn ymwneud.
+1970-01-01 00:02:59: Mae'n dda, mae'n dda, mae'n dda,
+1970-01-01 00:03:00: ac yn ffaith,
+1970-01-01 00:03:01: i wneud ymwneud heddiw,
+1970-01-01 00:03:03: yn ymwneud heddiw,
+1970-01-01 00:03:04: yn ymwneud heddiw,
+1970-01-01 00:03:05: yn ymwneud heddiw,
+1970-01-01 00:03:06: ac yn ffynnu,
+1970-01-01 00:03:07: a dwi'n gweithio'n ymwneud hyn
+1970-01-01 00:03:08: yn un ffordd bach cael desktop.
+1970-01-01 00:03:11: Rwy'n cael ei ymwneud yn dda,
+1970-01-01 00:03:12: oherwydd mae hynny'n dda'n dda,
+1970-01-01 00:03:13: ymwneud heddiw,
+1970-01-01 00:03:14: Test.Wave.
+1970-01-01 00:03:16: O, dyma, o, dyma.
+1970-01-01 00:03:20: Rwy'n gwybod, dwi'n gwybod,
+1970-01-01 00:03:21: dwi'n gwybod, dyma.
+1970-01-01 00:03:25: O, dyma, rwy'n dechrau unrhyw ffordd.
+1970-01-01 00:03:26: Llewydio.
+1970-01-01 00:03:28: O, a...
+1970-01-01 00:03:31: Rwy'n gwybod,
+1970-01-01 00:03:32: dynnu'r gwaith.
+1970-01-01 00:03:33: Tadw i'n...
+1970-01-01 00:03:35: yn ddod yn dda i weld unrhyw ffordd
+1970-01-01 00:03:37: yn y cyfweliad, ond...
+1970-01-01 00:03:42: Dwi'n gwybod, dwi'n gwybod,
+1970-01-01 00:03:43: Test.Wave.
+1970-01-01 00:03:45: Rwy'n dda i...
+1970-01-01 00:03:47: ac yna, rwy'n mynd i ddod hynny.
+1970-01-01 00:03:50: Yn ogystal â'r ffyrdd.
+1970-01-01 00:03:56: Dwi ddim yn credu bod yn cael eu hymryd
+1970-01-01 00:03:57: ar hyn o hyn,
+1970-01-01 00:03:58: ond rwyf yn gwybod,
+1970-01-01 00:03:59: mae'n anhygoel i fyny.
+1970-01-01 00:04:03: O, dwi'n mynd i weld ymlaen i'n cymryd.
+1970-01-01 00:04:05: Rwyf yn mynd i ddod rhywbeth.
+1970-01-01 00:04:06: Rwyf yn mynd i ddod reactor.
+1970-01-01 00:04:07: Rwyf yn mynd i ddod hynny llawer.
+1970-01-01 00:04:11: Rwyf wedi'i ddefnyddio llawer yn y proiect ddiweddol
+1970-01-01 00:04:12: sy'n cael ei ddod ar Weinsdau,
+1970-01-01 00:04:13: gyda Pus one stop.
+1970-01-01 00:04:19: Rwyf wedi'i gael drum masyn
+1970-01-01 00:04:21: a ddod hynny,
+1970-01-01 00:04:22: mae'n ffyrdd i ddod hynny.
+1970-01-01 00:04:27: Rwyf yn mynd i ddod ddod o ddod arbenig,
+1970-01-01 00:04:28: oherwydd nad oes amser i ddod.
+1970-01-01 00:04:30: Rwy'n meddwl,
+1970-01-01 00:04:31: amser, amser, amser pethau.
+1970-01-01 00:04:36: Rwyf amser ychydig o bryd,
+1970-01-01 00:04:38: mae'n bwysig iawn.
+1970-01-01 00:04:42: Amser yn dda iawn, efallai.
+1970-01-01 00:04:52: Nid oes amser.
+1970-01-01 00:04:57: Rwyf yn mynd i ddod cyngor yn ffyrdd,
+1970-01-01 00:04:58: a dda hwnnw yn ffyrdd.
+1970-01-01 00:04:59: Rwyf amser yn dda iawn,
+1970-01-01 00:05:05: er mwyn dda chweithiau'n ffyrdd,
+1970-01-01 00:05:07: neu rhywbeth.
+1970-01-01 00:05:18: Mae'n ffyrdd.
+1970-01-01 00:05:19: Mae'n ffyrdd.
+1970-01-01 00:05:21: Mae'n rwyf yn mynd i ddod hynny.
+1970-01-01 00:05:28: Ffyrdd.
+1970-01-01 00:05:33: Yn ogystal â hynny.
+1970-01-01 00:05:34: Rwy'n mynd i ddod hynny.
+1970-01-01 00:05:35: Diolch.
+1970-01-01 00:05:36: Nid.
+1970-01-01 00:05:37: Oherwydd, dyna'n llwyddo.
+1970-01-01 00:05:40: Rwyf amser.
+1970-01-01 00:05:41: Rwyf amser yn dda hynny.
+1970-01-01 00:05:47: Yr hyn sy'n gwybod beth.
+1970-01-01 00:05:48: Hwyl.
+1970-01-01 00:05:49: Rwyf amser.
+1970-01-01 00:05:50: Rwyf amser.
+1970-01-01 00:05:53: Rwyf amser yn dda hynny.
+1970-01-01 00:05:54: Yr hyn sy'n gwybod beth.
+1970-01-01 00:05:55: Mae'r amser yn dda hynny.
+1970-01-01 00:05:56: bunch.
+1970-01-01 00:05:58: dy Chapter 2 Hwyl.
+1970-01-01 00:05:59: Mae'r amser yn dda hynny.
+1970-01-01 00:06:04: Oherwydd, unediant gwybodaeth er bai ar gyfer diolch am yr holl Ao destructive
+1970-01-01 00:06:19: izens?
+1970-01-01 00:06:20: By quote i botams clwyddym.
+1970-01-01 00:06:23: Wel, let's go find some sounds, we have something to work with.
+1970-01-01 00:06:33: For example, I just pushed that but might as well try tenology as well.
+1970-01-01 00:06:46: Not going well.
+1970-01-01 00:06:52: Mae da wasn iawn, wneud ei chael yn ffyrdd deall, ddod i nôl uzgahop ac ymlaenwch ar y gindospenlliau hwn a'r
+1970-01-01 00:07:13: Mae'n rhaid. Nid oes. Rydyn ni'n mynd yno.
+1970-01-01 00:07:16: Mae'n rhan o ddewis, rhan o ddewis, rydw i'n ceisio gyrraedd.
+1970-01-01 00:07:20: Mae gennym nif oherwydd. Mae'n rhan o ddewis.
+1970-01-01 00:07:24: Rydyn ni'n mynd i'r ddewis.
+1970-01-01 00:07:26: Why won't my routing work?
+1970-01-01 00:07:29: Rydyn ni'n mynd i'r ddewis oherwydd nad oeswn.
+1970-01-01 00:07:37: Mae'n dda.
+1970-01-01 00:07:38: Rydyn ni'n gwneud yn dda.
+1970-01-01 00:07:40: Mae'n dda.
+1970-01-01 00:07:41: Mae'n dda.
+1970-01-01 00:07:43: Mae'n dda.
+1970-01-01 00:07:45: Mae'n dda.
+1970-01-01 00:07:47: Mae'n dda.
+1970-01-01 00:07:49: Mae'n dda.
+1970-01-01 00:07:51: Mae'n dda.
+1970-01-01 00:07:53: Mae'n dda.
+1970-01-01 00:07:55: Mae'n dda.
+1970-01-01 00:07:57: Mae'n dda.
+1970-01-01 00:07:59: Mae'n dda.
+1970-01-01 00:08:01: Mae'n dda.
+1970-01-01 00:08:03: Mae'n dda.
+1970-01-01 00:08:05: Mae'n dda.
+1970-01-01 00:08:07: Mae'n dda.
+1970-01-01 00:08:10: Mae'n dda.
+1970-01-01 00:08:19: Nawr mae'n townio ni wrthmingo.
+1970-01-01 00:08:29: N Goodbye my manipulated hopes
+1970-01-01 00:08:34: Mae'n dechrau hyn.
+1970-01-01 00:08:36: Mae'n dechrau hyn.
+1970-01-01 00:08:38: Llywydd fel hyn Blue series anso
+1970-01-01 00:09:03: ychwanegu'r blynyddoedd, a pha fyddai dda?
+1970-01-01 00:09:06: Mae'n dda'r ffaith.
+1970-01-01 00:09:14: Iawn, mae'n amser i'n recordio oherwydd ydym yn ymwneud â'r amser.
+1970-01-01 00:09:18: Felly, mae gennym ddynnu?
+1970-01-01 00:09:21: Iawn, dim ond dwi'n ei wneud hynny?
+1970-01-01 00:09:24: Render.
+1970-01-01 00:09:26: Mae'n dda.
+1970-01-01 00:09:35: Felly, roi'r recordio.
+1970-01-01 00:09:46: Panic enswys.
+1970-01-01 00:09:48: Mae'n dda.
+1970-01-01 00:09:54: 10 min at y ddau, dda'r amser, nesaf.
+1970-01-01 00:09:56: 10 min yma?
+1970-01-01 00:09:58: Mae'n dda'n dda.
+1970-01-01 00:10:00: Felly, roi'r recordio.
+1970-01-01 00:10:18: Mae'n dda.
+1970-01-01 00:10:42: Mae'n dda fel bod gennym ddau'r recordio.
+1970-01-01 00:10:48: Mae'n dda.
+1970-01-01 00:11:18: Diolch.
+1970-01-01 00:11:20: Mae'n dda.
+1970-01-01 00:11:22: Diolch.
+1970-01-01 00:11:24: Mae'n dda.
+1970-01-01 00:11:26: Mae'n dda.
+1970-01-01 00:11:28: Mae'n dda.
+1970-01-01 00:11:30: Mae'n dda.
+1970-01-01 00:11:32: Mae'n dda.
+1970-01-01 00:11:34: Mae'n dda.
+1970-01-01 00:11:36: Mae'n dda.
+1970-01-01 00:11:38: Mae'n dda.
+1970-01-01 00:11:40: Mae'n dda.
+1970-01-01 00:11:42: Mae'n dda.
+1970-01-01 00:11:44: Mae'n dda.
+1970-01-01 00:11:46: Mae'n dda.
+1970-01-01 00:11:48: Mae'n dda.
+1970-01-01 00:11:50: Mae'n dda.
+1970-01-01 00:11:52: Mae'n dda.
+1970-01-01 00:11:54: Mae'n dda.
+1970-01-01 00:11:56: Mae'n dda.
+1970-01-01 00:11:58: Mae'n dda.
+1970-01-01 00:12:00: Mae'n dda.
+1970-01-01 00:12:02: Mae'n dda.
+1970-01-01 00:12:04: Mae'n dda.
+1970-01-01 00:12:06: Mae'n dda.
+1970-01-01 00:12:08: Mae'n dda.
+1970-01-01 00:12:10: Mae'n dda.
+1970-01-01 00:12:12: Mae'n dda.
+1970-01-01 00:12:15: Rwy'n cael ganddyn nhw dda o'r ffans o fulg o fy nghyngor, oherwydd roeddwn i'n meddwl bod hynny'n ffynig.
+1970-01-01 00:12:19: Yn ogystal â'r ffans.
+1970-01-01 00:12:21: Yn ogystal â'r ffans.
+1970-01-01 00:12:23: Un minu 13.
+1970-01-01 00:12:25: 10%.
+1970-01-01 00:12:27: Alba Mintro.
+1970-01-01 00:12:29: Yn ogystal â'r ffans.
+1970-01-01 00:12:31: Yn ogystal â'r ffans.
+1970-01-01 00:12:33: Mae'n rhaid i bobl eisiau gwybod, beth yw eich gael?
+1970-01-01 00:12:35: Dwi ddim yn gwybod.
+1970-01-01 00:12:37: Yn ogystal â'r ffans, mae gennym ganddoedd ymlaen, a fe wnaethon i'n ddiogelio.
+1970-01-01 00:12:41: Yn ogystal â'r ffans, mae gennym ganddoedd ymlaen, a fe wnaethon i'n ddiogelio.
+1970-01-01 00:12:43: Yn ogystal â'r ffans, mae gennym ganddoedd ymlaen, a fe wnaethon i'n ddiogelio.
+1970-01-01 00:12:45: Yn ogystal â'r ffans, mae gennym ganddoedd ymlaen, a fe wnaethon i'n ddiogelio.
+1970-01-01 00:12:47: Yn ogystal â'r ffans, mae gennym ganddoedd ymlaen, a fe wnaethon i'n ddiogelio.
+1970-01-01 00:12:49: Yn ogystal â'r ffans, mae gennym ganddoedd ymlaen, a fe wnaethon i'n ddiogelio.
+1970-01-01 00:12:51: Mae'n ddiogelio.
+1970-01-01 00:12:53: Mae'n ddiogelio.
+1970-01-01 00:12:55: Mae'n ddiogelio.
+1970-01-01 00:12:57: Mae'n ddiogelio.
+1970-01-01 00:12:59: Mae'n ddiogelio.
+1970-01-01 00:13:01: Mae'n ddiogelio.
+1970-01-01 00:13:03: Mae'n ddiogelio.
+1970-01-01 00:13:05: Mae'n ddiogelio.
+1970-01-01 00:13:07: Mae'n ddiogelio.
+1970-01-01 00:13:09: Mae'n ddiogelio.
+1970-01-01 00:13:11: Mae'n ddiogelio.
+1970-01-01 00:13:13: Mae'n ddiogelio.
+1970-01-01 00:13:15: Mae'n ddiogelio.
+1970-01-01 00:13:17: Mae'n ddiogelio.
+1970-01-01 00:13:19: Mae'n ddiogelio.
+1970-01-01 00:13:21: Mae'n ddiogelio.
+1970-01-01 00:13:23: Mae'n ddiogelio.
+1970-01-01 00:13:25: Mae'n ddiogelio.
+1970-01-01 00:13:27: Mae'n ddiogelio.
+1970-01-01 00:13:29: Mae'n ddiogelio.
+1970-01-01 00:13:31: Mae'n ddiogelio.
+1970-01-01 00:13:33: Mae'n ddiogelio.
+1970-01-01 00:13:35: Mae'n ddiogelio.
+1970-01-01 00:13:37: Mae'n ddiogelio.
+1970-01-01 00:13:39: Mae'n ddiogelio.
+1970-01-01 00:13:41: Mae'n ddiogelio.
+1970-01-01 00:13:43: Mae'n ddiogelio.
+1970-01-01 00:13:45: Mae'n ddiogelio.
+1970-01-01 00:13:47: Mae'n ddiogelio.
+1970-01-01 00:13:49: Mae'n ddiogelio.
+1970-01-01 00:13:51: Mae'n ddiogelio.
+1970-01-01 00:13:53: Mae'n ddiogelio.
+1970-01-01 00:13:55: Mae'n ddiogelio.
+1970-01-01 00:13:57: Mae'n ddiogelio.
+1970-01-01 00:13:59: Mae'n ddiogelio.
+1970-01-01 00:14:01: Mae'n ddiogelio.
+1970-01-01 00:14:03: Mae'n ddiogelio.
+1970-01-01 00:14:05: Mae'n ddiogelio.
+1970-01-01 00:14:07: Mae'n ddiogelio.
+1970-01-01 00:14:09: Mae'n ddiogelio.
+1970-01-01 00:14:11: Mae'n ddiogelio.
+1970-01-01 00:14:13: Mae'n ddiogelio.
+1970-01-01 00:14:15: Mae'n ddiogelio.
+1970-01-01 00:14:17: Mae'n ddiogelio.
+1970-01-01 00:14:19: Mae'n ddiogelio.
+1970-01-01 00:14:21: Mae'n ddiogelio.
+1970-01-01 00:14:23: Mae'n ddiogelio.
+1970-01-01 00:14:25: Mae'n ddiogelio.
+1970-01-01 00:14:27: Mae'n ddiogelio.
+1970-01-01 00:14:29: Mae'n ddiogelio.
+1970-01-01 00:14:31: Mae'n ddiogelio.
+1970-01-01 00:14:33: Mae'n ddiogelio.
+1970-01-01 00:14:35: Mae'n ddiogelio.
+1970-01-01 00:14:37: Mae'n ddiogelio.
+1970-01-01 00:14:39: Mae'n ddiogelio.
+1970-01-01 00:14:41: Mae'n ddiogelio.
+1970-01-01 00:14:43: Mae'n ddiogelio.
+1970-01-01 00:14:45: Mae'n ddiogelio.
+1970-01-01 00:14:47: Mae'n ddiogelio.
+1970-01-01 00:14:49: Mae'n ddiogelio.
+1970-01-01 00:14:51: Mae'n ddiogelio.
+1970-01-01 00:14:53: Mae'n ddiogelio.
+1970-01-01 00:14:55: Mae'n ddiogelio.
+1970-01-01 00:14:57: Mae'n ddiogelio.
+1970-01-01 00:14:59: Mae'n ddiogelio.
+1970-01-01 00:15:01: Mae'n ddiogelio.
+1970-01-01 00:15:03: Mae'n ddiogelio.
+1970-01-01 00:15:05: Mae'n ddiogelio.
+1970-01-01 00:15:07: Mae'n ddiogelio.
+1970-01-01 00:15:09: Mae'n ddiogelio.
+1970-01-01 00:15:11: Mae'n ddiogelio.
+1970-01-01 00:15:13: Mae'n ddiogelio.
+1970-01-01 00:15:15: Mae'n ddiogelio.
+1970-01-01 00:15:17: Mae'n ddiogelio.
+1970-01-01 00:15:19: Mae'n ddiogelio.
+1970-01-01 00:15:21: Mae'n ddiogelio.
+1970-01-01 00:15:23: Mae'n ddiogelio.
+1970-01-01 00:15:25: Mae'n ddiogelio.
+1970-01-01 00:15:27: Mae'n ddiogelio.
+1970-01-01 00:15:29: Mae'n ddiogelio.
+1970-01-01 00:15:31: Mae'n ddiogelio.
+1970-01-01 00:15:33: Mae'n ddiogelio.
+1970-01-01 00:15:35: Mae'n ddiogelio.
+1970-01-01 00:15:37: Mae'n ddiogelio.
+1970-01-01 00:15:39: Mae'n ddiogelio.
+1970-01-01 00:15:41: Mae'n ddiogelio.
+1970-01-01 00:15:43: Mae'n ddiogelio.
+1970-01-01 00:15:45: Mae'n ddiogelio.
+1970-01-01 00:15:47: Mae'n ddiogelio.
+1970-01-01 00:15:49: Mae'n ddiogelio.
+1970-01-01 00:15:51: Mae'n ddiogelio.
+1970-01-01 00:15:53: Mae'n ddiogelio.
+1970-01-01 00:15:55: Mae'n ddiogelio.
+1970-01-01 00:15:57: Mae'n ddiogelio.
+1970-01-01 00:15:59: Mae'n ddiogelio.
+1970-01-01 00:16:01: Mae'n ddiogelio.
+1970-01-01 00:16:03: Mae'n ddiogelio.
+1970-01-01 00:16:05: Mae'n ddiogelio.
+1970-01-01 00:16:07: Mae'n ddiogelio.
+1970-01-01 00:16:09: Mae'n ddiogelio.
+1970-01-01 00:16:11: Mae'n ddiogelio.
+1970-01-01 00:16:13: Mae'n ddiogelio.
+1970-01-01 00:16:15: Mae'n ddiogelio.
+1970-01-01 00:16:17: Mae'n ddiogelio.
+1970-01-01 00:16:19: Mae'n ddiogelio.
+1970-01-01 00:16:21: Mae'n ddiogelio.
+1970-01-01 00:16:23: Mae'n ddiogelio.
+1970-01-01 00:16:25: Mae'n ddiogelio.
+1970-01-01 00:16:27: Mae'n ddiogelio.
+1970-01-01 00:16:29: Mae'n ddiogelio.
+1970-01-01 00:16:31: Mae'n ddiogelio.
+1970-01-01 00:16:33: Mae'n ddiogelio.
+1970-01-01 00:16:35: Mae'n ddiogelio.
+1970-01-01 00:16:37: Mae'n ddiogelio.
+1970-01-01 00:16:39: Mae'n ddiogelio.
+1970-01-01 00:16:41: Mae'n ddiogelio.
+1970-01-01 00:16:43: Mae'n ddiogelio.
+1970-01-01 00:16:45: Mae'n ddiogelio.
+1970-01-01 00:16:47: Mae'n ddiogelio.
+1970-01-01 00:16:49: Mae'n ddiogelio.
+1970-01-01 00:16:51: Mae'n ddiogelio.
+1970-01-01 00:16:53: Mae'n ddiogelio.
+1970-01-01 00:16:55: Mae'n ddiogelio.
+1970-01-01 00:16:57: Mae'n ddiogelio.
+1970-01-01 00:16:59: Mae'n ddiogelio.
+1970-01-01 00:17:01: Mae'n ddiogelio.
+1970-01-01 00:17:03: Mae'n ddiogelio.
+1970-01-01 00:17:05: Mae'n ddiogelio.
+1970-01-01 00:17:07: Mae'n ddiogelio.
+1970-01-01 00:17:09: Mae'n ddiogelio.
+1970-01-01 00:17:11: Mae'n ddiogelio.
+1970-01-01 00:17:13: Mae'n ddiogelio.
+1970-01-01 00:17:15: Mae'n ddiogelio.
+1970-01-01 00:17:17: Mae'n ddiogelio.
+1970-01-01 00:17:19: Mae'n ddiogelio.
+1970-01-01 00:17:21: Mae'n ddiogelio.
+1970-01-01 00:17:23: Mae'n ddiogelio.
+1970-01-01 00:17:25: Mae'n ddiogelio.
+1970-01-01 00:17:27: Mae'n ddiogelio.
+1970-01-01 00:17:29: Mae'n ddiogelio.
+1970-01-01 00:17:31: Mae'n ddiogelio.
+1970-01-01 00:17:33: Mae'n ddiogelio.
+1970-01-01 00:17:35: Dwi'n meddwl nad oes y traf.
+1970-01-01 00:17:39: Ie.
+1970-01-01 00:17:43: A oes gennych chi'n gynnal ei gwaith eich hun?
+1970-01-01 00:17:45: Rwy'n gynnal.
+1970-01-01 00:17:47: Ond fel y ddweud,
+1970-01-01 00:17:49: mae'n rhan integral o'n proses i'n gwneud hynny'n llawer o'r amser,
+1970-01-01 00:17:53: ond rwy'n cael gadael i ddod o brydau o'r llai
+1970-01-01 00:17:56: oherwydd bodwn yn dda iawn,
+1970-01-01 00:17:58: fel dwi ddim yn cair,
+1970-01-01 00:18:00: ond roedd y ddod oes yn dda iawn,
+1970-01-01 00:18:02: ond roedd y ddod oes yn dda iawn,
+1970-01-01 00:18:04: unrhyw technig y byddwn yn defnyddio yn ystod,
+1970-01-01 00:18:06: yw recordio'r lwp o'r hyn y byddwn yn ei fynnu
+1970-01-01 00:18:08: a'i ddod yn fwyaf,
+1970-01-01 00:18:10: felly mae'n dda un pwyth neu un octaw
+1970-01-01 00:18:12: neu unrhyw intervol mwyaf.
+1970-01-01 00:18:14: A yna gallwch chi'n gwybod amser iawn i ddod o'r ddod,
+1970-01-01 00:18:16: a hynny'n dda yn dda,
+1970-01-01 00:18:18: ond nid yn ysgol i'r un.
+1970-01-01 00:18:20: Felly, byddwn yn gwneud hynny yn ystod,
+1970-01-01 00:18:22: ond yn fy mhroch fy hun,
+1970-01-01 00:18:24: ac yn ystod y cyfnodau fy hun,
+1970-01-01 00:18:26: nid yw hynny'n rhywbeth y byddwn yn ei wneud.
+1970-01-01 00:18:28: Ond rwy'n gweld,
+1970-01-01 00:18:30: mae un producent, dwi'n credu,
+1970-01-01 00:18:32: Walg, rwy'n gweld, mae'n gweld,
+1970-01-01 00:18:34: byddwch chi'n gweld ei fideoau yn y ddod,
+1970-01-01 00:18:36: mae'n gwneud y proses o ddod o'i hun,
+1970-01-01 00:18:38: a'i wneud ystafell iawn gyda'i.
+1970-01-01 00:18:40: Mae'n ymgyrch i'w gwybod,
+1970-01-01 00:18:42: byddwn yn cael amser ar un o'r un,
+1970-01-01 00:18:44: ond un.
+1970-01-01 00:18:46: A allai?
+1970-01-01 00:18:48: A allai?
+1970-01-01 00:18:50: Roeddwn i'n siarad yn fwyaf.
+1970-01-01 00:18:52: Mae'r plugins Reactor yn fwyaf.
+1970-01-01 00:18:54: A oedd yna'n cael ei wneud yn Reactor?
+1970-01-01 00:18:56: Roeddwn i'n gweld ychydig o'r cymaint
+1970-01-01 00:18:58: a dyna'r ganddyn Reactor, yw'n ymwneud?
+1970-01-01 00:19:00: Ie.
+1970-01-01 00:19:02: Yn fy mhroedd yma,
+1970-01-01 00:19:04: y pwynt yma ar ddiwedd,
+1970-01-01 00:19:06: fe wnaethom y pwynt
+1970-01-01 00:19:08: ar y cyfnodau yn Ffylion Reactor
+1970-01-01 00:19:10: oherwydd roedd yn angen
+1970-01-01 00:19:12: cymaint o ddod a ddod
+1970-01-01 00:19:14: i gyd yn gallu gyrraedd cysylltiadau
+1970-01-01 00:19:16: yn y ffordd y byddem yn eich bod yn eithaf bach.
+1970-01-01 00:19:18: Felly, fel gysylltuad,
+1970-01-01 00:19:20: roedd yn cael llawer o ddod yn Reactor.
+1970-01-01 00:19:22: Felly, ar y pwynt,
+1970-01-01 00:19:24: roeddwn i'n cael Reactor yn fwyaf
+1970-01-01 00:19:26: gyda'r ymwneud hwnnw.
+1970-01-01 00:19:28: Mae llawer o ddod yn fwyaf.
+1970-01-01 00:19:30: Ond roedd yn fwyaf yn cael ei ddod
+1970-01-01 00:19:32: i mi pan oeddwn i'n gwneud
+1970-01-01 00:19:34: pan fyddech chi'n cymaint eich hunain,
+1970-01-01 00:19:36: yn oed eich bod wedi'i gwneud,
+1970-01-01 00:19:38: oherwydd yw'n gwybod beth yna yno.
+1970-01-01 00:19:40: Felly, gallwch chi wneud gysylltuadau
+1970-01-01 00:19:42: oherwydd y pwynt yma
+1970-01-01 00:19:44: Felly, un peth y byddaf wedi'i gwneud
+1970-01-01 00:19:46: a'n ddaf yn ddaf yn ddaf yn ddaf
+1970-01-01 00:19:48: yw bod pan fydd rhywbeth yn gweithio ar bob blynyddoedd,
+1970-01-01 00:19:50: gallwch chi wneud oedrwyr, am ddaf,
+1970-01-01 00:19:52: sy'n gweithio ar bob pwynt 16,
+1970-01-01 00:19:54: neu beth sydd eich eich eich eich eich eich ddifysg,
+1970-01-01 00:19:56: felly, bob amser mae'r snare yn mynd,
+1970-01-01 00:19:58: mae'n cymaint o effeithiau newydd,
+1970-01-01 00:20:00: felly mae'r snare yn ddaf yn ddaf.
+1970-01-01 00:20:02: Ond nid oes gen i'n cael unrhyw ffyrdd o'r holl ffyrdd,
+1970-01-01 00:20:04: ond mae'n cymaint o ffyrdd o'r holl ffyrdd,
+1970-01-01 00:20:06: sy'n cael i chi wneud hynny,
+1970-01-01 00:20:08: nid oes rhywbeth fel Max,
+1970-01-01 00:20:10: sy'n cael i chi wneud hynny,
+1970-01-01 00:20:12: ond mae'n cymaint o ffyrdd o'r holl ffyrdd.
+1970-01-01 00:20:14: Mae'n modulr.
+1970-01-01 00:20:16: Diolch yn fawr.
+1970-01-01 00:20:18: Diolch yn fawr.

@@ -8,8 +8,6 @@ from langchain.prompts import ChatPromptTemplate
 from langchain.chains import LLMChain
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from dotenv import load_dotenv
-from preprocess import preprocess_text, chunk_text
-
 
 # Load environment variables (including OPENAI_API_KEY)
 load_dotenv()
@@ -19,62 +17,55 @@ if not os.getenv("OPENAI_API_KEY"):
     raise ValueError("OPENAI_API_KEY not found in environment variables")
 
 
-def load_and_preprocess_documents(directory):
-    loader = DirectoryLoader(directory, glob="*.txt")
-    documents = loader.load()
-    processed_docs = []
-    for doc in documents:
-        processed_text = preprocess_text(doc.page_content)
-        chunks = chunk_text(processed_text)
-        for chunk in chunks:
-            processed_docs.append(Document(page_content=chunk, metadata=doc.metadata))
-    return processed_docs
+def preprocess_text(text):
+    # Placeholder for actual preprocessing logic
+    return text
 
 
-def load_and_split_documents(directory):
-    loader = DirectoryLoader(directory, glob="*.txt")
-    documents = loader.load()
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
-    return text_splitter.split_documents(documents)
+def chunk_text(text, chunk_size=500):
+    return [text[i : i + chunk_size] for i in range(0, len(text), chunk_size)]
 
 
-def create_vectorstore(splits):
+def create_vectorstore(documents):
     embeddings = OpenAIEmbeddings()
-    return Chroma.from_documents(splits, embeddings)
+    return Chroma.from_documents(documents, embeddings)
 
 
 def create_analysis_chain():
-    llm = ChatOpenAI(temperature=0)
+    llm = ChatOpenAI(temperature=0, model="gpt-3.5-turbo")
     template = """
-    Analyze the following transcript excerpt from the 'Against the Clock' series:
+    Analyze this 'Against the Clock' transcript excerpt:
 
     {text}
 
-    Please provide:
-    1. Key equipment mentioned
-    2. Main techniques or processes described
-    3. Artist's approach or philosophy
-    4. Any unique or innovative methods
-    5. Challenges faced during the process
-    6. Overall mood or sentiment
+    Briefly identify the top 5 most interesting aspects of the artist's process in:
+    1. Time management
+    2. Sound design
+    3. Rhythm construction
+    4. Workflow optimization
+    5. Creative problem-solving
 
-    Be concise but insightful in your analysis.
+    Be concise and specific.
     """
     prompt = ChatPromptTemplate.from_template(template)
     return LLMChain(llm=llm, prompt=prompt)
 
 
-def analyze_documents(splits, analysis_chain):
+def analyze_documents(documents, analysis_chain, batch_size=5):
     results = []
-    for doc in splits:
-        analysis = analysis_chain.run(text=doc.page_content)
-        results.append(
-            {
-                "content": doc.page_content,
-                "analysis": analysis,
-                "metadata": doc.metadata,
-            }
-        )
+    for i in range(0, len(documents), batch_size):
+        batch = documents[i : i + batch_size]
+        batch_results = []
+        for doc in batch:
+            analysis = analysis_chain.run(text=doc.page_content)
+            batch_results.append(
+                {
+                    "content": doc.page_content,
+                    "analysis": analysis,
+                    "metadata": doc.metadata,
+                }
+            )
+        results.extend(batch_results)
     return results
 
 
@@ -89,20 +80,25 @@ def group_results_by_artist(results):
 
 
 def create_comparison_chain():
-    llm = ChatOpenAI(temperature=0)
+    llm = ChatOpenAI(temperature=0, model="gpt-4")
     template = """
     Compare and contrast the following analyses from different 'Against the Clock' episodes:
 
     {analyses}
 
-    Provide insights on:
-    1. Common themes or approaches
-    2. Unique or standout methods
-    3. Evolution of techniques (if apparent)
-    4. Diversity of equipment choices
-    5. Overall trends in creative processes
+    Identify the top 5 most common and interesting elements across all episodes, focusing on:
+    1. Time management techniques
+    2. Sound design approaches
+    3. Rhythmic construction methods
+    4. Workflow optimization strategies
+    5. Creative problem-solving tactics
 
-    Summarize your findings in a concise but informative manner.
+    For each element, provide:
+    - A brief description of the technique or approach
+    - How frequently it appears across episodes
+    - Why it's significant or effective in the context of rapid music production
+
+    Present your findings in a clear, concise manner.
     """
     prompt = ChatPromptTemplate.from_template(template)
     return LLMChain(llm=llm, prompt=prompt)
@@ -118,22 +114,21 @@ def generate_comparative_insights(grouped_results, comparison_chain):
 
 
 def create_report_chain():
-    llm = ChatOpenAI(temperature=0)
+    llm = ChatOpenAI(temperature=0, model="gpt-4")
     template = """
-    Based on the comparative insights from multiple 'Against the Clock' episodes, provide a comprehensive report on:
+    Based on the comparative insights from multiple 'Against the Clock' episodes, provide a comprehensive report on the top 5 most significant common elements in the artists' processes.
 
     {insights}
 
-    The report should cover:
-    1. Overall trends in music production techniques
-    2. Common challenges and solutions
-    3. Innovative approaches observed
-    4. Equipment preferences and their impact
-    5. The role of time constraints in the creative process
-    6. Diversity of styles and methods across artists
-    7. Any other significant observations
+    For each of the top 5 elements:
+    1. Provide a clear, concise description of the technique or approach
+    2. Explain why it's particularly effective or innovative in rapid music production
+    3. Give specific examples of how different artists have used or adapted this element
+    4. Discuss any variations or evolutions of this element across different episodes or genres
 
-    Organize the report in a clear, structured manner with headings and subheadings.
+    Conclude with a summary of how these top 5 elements contribute to successful rapid music production in the 'Against the Clock' series.
+
+    Present your report in a clear, structured manner with headings for each of the top 5 elements.
     """
     prompt = ChatPromptTemplate.from_template(template)
     return LLMChain(llm=llm, prompt=prompt)
@@ -147,37 +142,45 @@ def generate_final_report(comparative_insights, report_chain):
 
 
 def main():
-    # Load and preprocess documents
-    processed_docs = load_and_preprocess_documents("preprocessed_transcripts")
+    directory = "preprocessed_transcripts"
+    all_results = []
 
-    # Create vectorstore
-    vectorstore = create_vectorstore(processed_docs)
+    for filename in os.listdir(directory):
+        if filename.endswith(".txt"):
+            file_path = os.path.join(directory, filename)
+            with open(file_path, "r") as file:
+                content = file.read()
+            processed_doc = preprocess_text(content)
+            chunks = chunk_text(processed_doc)
+            documents = [
+                Document(page_content=chunk, metadata={"source": filename})
+                for chunk in chunks
+            ]
 
-    # Analyze documents
-    analysis_chain = create_analysis_chain()
-    results = analyze_documents(processed_docs, analysis_chain)
+            vectorstore = create_vectorstore(documents)
+            analysis_chain = create_analysis_chain()
+            results = analyze_documents(documents, analysis_chain)
 
-    # Group results by artist
-    grouped_results = group_results_by_artist(results)
+            all_results.extend(results)
 
-    # Generate comparative insights
+    # Now that we have results from all files, we can perform aggregate analysis
+    grouped_results = group_results_by_artist(all_results)
     comparison_chain = create_comparison_chain()
     comparative_insights = generate_comparative_insights(
         grouped_results, comparison_chain
     )
 
-    # Generate final report
     report_chain = create_report_chain()
     final_report = generate_final_report(comparative_insights, report_chain)
 
     # Save results
-    with open("comparative_insights.txt", "w") as f:
+    with open("analysis_results/comparative_insights.txt", "w") as f:
         for insight in comparative_insights:
             f.write(f"Artist: {insight['artist']}\n")
             f.write(insight["insight"])
             f.write("\n\n")
 
-    with open("final_report.txt", "w") as f:
+    with open("analysis_results/final_report.txt", "w") as f:
         f.write(final_report)
 
     print(
