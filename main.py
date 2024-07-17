@@ -32,7 +32,7 @@ def create_vectorstore(documents):
 
 
 def create_analysis_chain():
-    llm = ChatOpenAI(temperature=0, model="gpt-3.5-turbo")
+    llm = ChatOpenAI(temperature=0, model="gpt-4o")
     template = """
     Analyze this 'Against the Clock' transcript excerpt:
 
@@ -80,7 +80,7 @@ def group_results_by_artist(results):
 
 
 def create_comparison_chain():
-    llm = ChatOpenAI(temperature=0, model="gpt-4")
+    llm = ChatOpenAI(temperature=0, model="gpt-4o")
     template = """
     Compare and contrast the following analyses from different 'Against the Clock' episodes:
 
